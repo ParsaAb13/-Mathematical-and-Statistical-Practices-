@@ -1,2 +1,2 @@
-# guess
-just simple guessing game with R programming as programming languages
+# Practice
+just simple Practices with Python programming as programming languages
