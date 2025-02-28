@@ -1,6 +1,35 @@
-# Mathematical  and Statistical Practices with python 
-just simple Practices with Python programming 
-and i m Practice with Numpy , Pandas , matplotlib.pyplot , scipy , scipy.stats
-and Some Measures of central like mean , median , skewness , and standard deviation , and some standard scores Zscores , Tscores and for error i want to say is it challenge for You for completing this code 
-im junior Data scientist and AI enthusiastic and Also Computer science student in university , i know im so Junior at this field but i first i want to complete my statistical and mathematicals fields then going for Machine learning like Decition Tree , Train test ... 
-And Thanks for your Supporting :)
+## Mathematical and Statistical Practices with Python  
+
+This repository is dedicated to simple practices and exercises using Python programming aimed at enhancing my skills in mathematical and statistical concepts.  
+
+## Libraries Used  
+
+I am practicing with the following Python libraries:  
+- **NumPy**: For numerical computations.  
+- **Pandas**: For data manipulation and analysis.  
+- **Matplotlib.pyplot**: For data visualization.  
+- **SciPy**: For scientific computing.  
+- **SciPy.stats**: For statistical functions.  
+
+## Topics Covered  
+
+In this repository, I am focusing on key statistical concepts, including:  
+- Measures of central tendency such as:  
+  - Mean  
+  - Median  
+  - Skewness  
+  - Standard Deviation
+     
+"and for error i want to say is it challenge for You for completing this code"
+
+- Standard scores such as:  
+  - Z-scores  
+  - T-scores  
+
+## Current Focus  
+
+As a junior data scientist and AI enthusiast, I am currently focused on solidifying my understanding of statistical and mathematical fundamentals. My goal is to eventually delve into machine learning concepts, including decision trees, train-test splits, and more.  
+
+I appreciate any support and feedback from others in the community as I navigate through this learning journey.   
+
+Thank you for your support! 😊  
