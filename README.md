@@ -19,13 +19,14 @@ In this repository, I am focusing on key statistical concepts, including:
   - Median  
   - Skewness  
   - Standard Deviation
-     
-""Note: One intentional error is included as a challenge for others to debug or complete. Feel free to contribute!""
 
 - Standard scores such as:  
   - Z-scores  
-  - T-scores  
-
+  - T-scores
+    
+## Note
+" One intentional error is included as a challenge for others to debug or complete. Feel free to contribute! "
+ 
 ## Current Focus  
 
 As a junior data scientist and AI enthusiast, I am currently focused on solidifying my understanding of statistical and mathematical fundamentals. My goal is to eventually delve into machine learning concepts, including decision trees, train-test splits, and more.  
