@@ -20,7 +20,7 @@ In this repository, I am focusing on key statistical concepts, including:
   - Skewness  
   - Standard Deviation
      
-"and for error i want to say is it challenge for You for completing this code"
+""Note: One intentional error is included as a challenge for others to debug or complete. Feel free to contribute!""
 
 - Standard scores such as:  
   - Z-scores  
