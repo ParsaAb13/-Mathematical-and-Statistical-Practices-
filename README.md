@@ -7,9 +7,6 @@ This repository is dedicated to simple practices and exercises using Python prog
 I am practicing with the following Python libraries:  
 - **NumPy**: For numerical computations.  
 - **Pandas**: For data manipulation and analysis.  
-- **Matplotlib.pyplot**: For data visualization.  
-- **SciPy**: For scientific computing.  
-- **SciPy.stats**: For statistical functions.  
 
 ## Topics Covered  
 
